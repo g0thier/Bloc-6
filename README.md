@@ -1,8 +1,10 @@
 # Projet-Full-Stack
 
 This project was at origin a sprint for a Demoday at Jedha.
+This repo is modified for uses larges datasets without colliding with github 100 Mo restrictions.
  * [The video of the Presentation](https://youtu.be/wK4L1wayQBU?t=2314)
  * [Link to Projet-Full-Stack](https://github.com/g0thier/Projet-Full-Stack)
+
  
 # Bloc n°6 : Direction de projets de gestion de données.
 
