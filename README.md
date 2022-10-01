@@ -21,12 +21,13 @@ The AI Sprint is a framework that will help you structure the way you are buildi
 
 ## Informations about files:
 
-01. Data Analyse
-02. Scraping
-03. Modele
-04. Genre Ponderation
-05. Imdb Score Model
-05. Bis Models
-06. Online
-07. Presentation
-
+01. Import_Datasets.ipynb
+02. Creation_URL.ipynb
+03. Scraping.py
+04. Model
+05. Genre_Ponderation.ipynb
+06. Imdb_Score_Model
+07. Model
+08. Test_Model.ipynb
+09. Application
+10. Presentation
