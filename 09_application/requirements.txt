@@ -1,0 +1,8 @@
+altair
+joblib
+numpy
+pandas
+pydeck
+sklearn
+streamlit
+sentence_transformers
