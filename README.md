@@ -7,10 +7,13 @@ This repo is modified for uses larges datasets without colliding with github 100
 
  
 # Bloc n°6 : Direction de projets de gestion de données.
+## Contact 
+
+[voguant-cal0n@icloud.com](mailto:voguant-cal0n@icloud.com)
 
 ## Video explain
 
-* Foo
+[Bloc n°6 : Direction de projets de gestion de données.](https://youtu.be/AlB6XQs5rsQ "Bloc n°6")
 
 ## Links 
 
